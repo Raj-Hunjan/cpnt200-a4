@@ -6,7 +6,7 @@
 - [Live🎉](https://festive-lamarr-ac0af8.netlify.app/)
 
 ## Code Review
-- I think it was really cool working with vue components and directives. Its pretty fustrating when things don't work but very satisfying when things actually do work. Like I had a problem with getting my gallery to display stuff and I just couldn't quite figure it out. That's when Icah came to the rescue and helped me with getting it to work so a very special thanks to her. I could have done a better job at customizing the gallery page, it looks very ugly but I was just focused on getting this project done. Tailwind is starting to become my favourite css framework, I would actually like to learn and build stuff with it as much as possible. So yeah it was a fun project.
+- I think it was really cool working with vue components and directives. Its pretty frustrating when things don't work but very satisfying when things actually do work. Like I had a problem with getting my gallery to display stuff and I just couldn't quite figure it out. That's when Icah came to the rescue and helped me with getting it to work so a very special thanks to her. I could have done a better job at customizing the gallery page, it looks very ugly but I was just focused on getting this project done. Tailwind is starting to become my favourite css framework, I would actually like to learn and build stuff with it as much as possible. So yeah it was a fun project.
 
 
 ## Attributions
