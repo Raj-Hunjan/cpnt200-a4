@@ -1,6 +1,7 @@
 <template>
     <div>
         <NavBar :navItem='galleryAssets'/>
+        <HeaderSection :headerItem='galleryAssets'/>
         <GalleryComponent :galleryItem='image' v-for='image in images' :key="image.id" />
         <FooterPart :foot='galleryAssets'/>
     </div>
